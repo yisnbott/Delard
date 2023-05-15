@@ -1,1 +1,1 @@
-# SonOyuncu clientinin packetlerine göre ayarlanmış DelardCore.jar plugininin lisans sistemi
+#  SonOyuncu Network'da bulunan özelliklerin çoğunu içeren DelardCore.jar'ın lisans sistemi.
